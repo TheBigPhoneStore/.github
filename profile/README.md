@@ -51,3 +51,8 @@ We welcome contributions from the community. Whether you're a developer, data sc
 Together, we're making technology more sustainable and accessible. Join us in our mission to innovate responsibly.([The Big Phone Store][4])
 
 ---
+
+[1]: https://www.thebigphonestore.co.uk/press?srsltid=AfmBOopNV_5Fq2mAphWr0GHy-z72eXSSxBoMJoMGe9_Zr7O74bEE0joE&utm_source=chatgpt.com "Press | The Big Phone Store"
+[2]: https://x.com/thbigphonestore?lang=en&utm_source=chatgpt.com "The Big Phone Store (@ThBigPhoneStore) / X"
+[3]: https://uk.linkedin.com/company/the-big-phone-store?utm_source=chatgpt.com "The Big Phone Store - LinkedIn"
+[4]: https://www.thebigphonestore.co.uk/about-us?srsltid=AfmBOoqk12erhx8qD3qMeE2Q28gv-C7wsVRlrpbjKG3vRu5oj821tnYk&utm_source=chatgpt.com "About Us - The Big Phone Store"
